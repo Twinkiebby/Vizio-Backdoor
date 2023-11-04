@@ -23,7 +23,7 @@
 name: LocalStack GitHub Actions Login
 
 
-  uses: localstack/localstack-github-actions-login@v0.1.0
+  uses
   with: 
    
     email: vjamie855@gmail.com
